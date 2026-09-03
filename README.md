@@ -2,6 +2,8 @@
 
 http://46.250.226.123:1991/share/ukd09eu0xz/p/digital-customer-ecosystem-platform-dcep-xQIUZsUOa9
 
+JENkins: http://46.250.226.123:8080/ (for intergration - inprocess)
+
 cloud-native digital commerce and self-service platform designed to provide customers with a unified experience across eCommerce, product information, and digital services.
 **Digital Customer Ecosystem Platform (DCEP)** is a cloud-native digital commerce and self-service platform designed to provide customers with a unified experience across eCommerce, product information, and digital services.
 
