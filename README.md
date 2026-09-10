@@ -25,7 +25,6 @@ with ai agents and workflows
 
 
 
-
 devops structure
 
 <img width="920" height="601" alt="image" src="https://github.com/user-attachments/assets/b9b09aa7-a8b6-44c2-bf93-d4065148d5fc" />
