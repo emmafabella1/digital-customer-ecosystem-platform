@@ -16,8 +16,8 @@ Synchronous communication is primarily handled through REST APIs, while asynchro
 The platform is deployed using containerized workloads on Azure Kubernetes Service (AKS), supported by Docker and automated CI/CD pipelines through Jenkins or Azure DevOps. Security, monitoring, logging, distributed tracing, automated testing, and fault-tolerance mechanisms are integrated across the platform to ensure reliability, scalability, and maintainability.
 
 The overall objective of DCEP is to create a **seamless, scalable, secure, and self-service digital customer journey**, from product discovery through purchase, post-purchase services, and repeat engagement.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2d2f191e-59e5-4c13-84f9-d341234c86ac" />
 
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2c0e661a-d605-4436-9c7f-459895c1cb1f" />
 
 with ai agents and workflows
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8d0d29ad-d3b1-42d7-a5ce-2b504c02d810" />
