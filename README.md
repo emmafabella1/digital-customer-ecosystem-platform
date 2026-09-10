@@ -20,7 +20,10 @@ The overall objective of DCEP is to create a **seamless, scalable, secure, and s
 
 
 with ai agents and workflows
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/8d0d29ad-d3b1-42d7-a5ce-2b504c02d810" />
+
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/f1da2a96-3546-45d2-b772-88df3f252240" />
+
+
 
 devops structure
 
