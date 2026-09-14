@@ -38,5 +38,30 @@ devops structure
 
 <img width="1306" height="734" alt="image" src="https://github.com/user-attachments/assets/27853627-8736-4803-b909-3c302ac744b3" />
 
+# DCEP Microservices — Port & URL Mapping
+
+Server: `46.250.226.123`
+
+|     |     |     |     |     |
+| --- | --- | --- | --- | --- |
+| #   | Service | Port | Base URL | Health Check |
+| 1   | customer-service | 9413 | http://46.250.226.123:9413/api/v1/customers | http://46.250.226.123:9413/api/v1/customers/health |
+| 2   | product-catalog-service | 9414 | http://46.250.226.123:9414/api/v1/products | http://46.250.226.123:9414/api/v1/products/health |
+| 3   | search-service | 9415 | http://46.250.226.123:9415/api/v1/search | http://46.250.226.123:9415/api/v1/search/health |
+| 4   | cart-service | 9416 | http://46.250.226.123:9416/api/v1/cart | http://46.250.226.123:9416/api/v1/cart/health |
+| 5   | order-service | 9417 | http://46.250.226.123:9417/api/v1/orders | http://46.250.226.123:9417/api/v1/orders/health |
+| 6   | payment-service | 9418 | http://46.250.226.123:9418/api/v1/payments | http://46.250.226.123:9418/api/v1/payments/health |
+| 7   | digital-services-platform | 9419 | http://46.250.226.123:9419/api/v1/digital-services | http://46.250.226.123:9419/api/v1/digital-services/health |
+
+Each service also exposes Spring Actuator health at `http://46.250.226.123:<port>/actuator/health`.
+
+## Notes
+
+- All services are Maven-based, Spring Boot 3.3.4, Java 21.
+- Run each with `mvn spring-boot:run` from its own folder.
+- Ports are sequential starting at 9413 per your request — no gaps, easy to remember for firewall rules.
+- Current storage layer is in-memory (`ConcurrentHashMap`) for MVP/POC speed. Swap in Spring Data JPA + Azure SQL / Cosmos DB per your architecture diagram once the API contracts are validated against the Angular frontend.
+- No authentication is wired in yet — add Spring Security once your Identity Provider (Okta / Azure AD) decision is finalized.
+
 
 
