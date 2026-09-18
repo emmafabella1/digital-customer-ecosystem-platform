@@ -1,5 +1,7 @@
 # digital-customer-ecosystem-platform
 
+tecnical documentsations updated (09/18/2026)
+
 http://46.250.226.123:1991/share/ukd09eu0xz/p/digital-customer-ecosystem-platform-dcep-xQIUZsUOa9
 
 Jenkins: http://46.250.226.123:8080/ (for intergration - inprocess)
