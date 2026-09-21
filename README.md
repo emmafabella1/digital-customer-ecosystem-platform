@@ -1,6 +1,8 @@
 # digital-customer-ecosystem-platform
 
-tecnical documentsations updated (09/18/2026)
+tecnical documentsation updated (09/18/2026)
+
+url: http://46.250.226.123:4200/
 
 http://46.250.226.123:1991/share/ukd09eu0xz/p/digital-customer-ecosystem-platform-dcep-xQIUZsUOa9
 
