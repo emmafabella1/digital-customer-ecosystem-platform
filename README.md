@@ -3,7 +3,9 @@
 ########
 lesson learned during interview process.
 
-1 wag pagsabayin Ang interview 
+busted reasons
+
+1 wag pagsabayin Ang interview para di magpapamove
 
 2 ingatan Ang laptop with video cam ready
 
