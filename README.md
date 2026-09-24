@@ -2,9 +2,6 @@
 
 digital-customer-ecosystem-platform
 
-busted na naman tayo ahahah
-
-
 tecnical documentsation updated (09/18/2026)
 
 url: http://46.250.226.123:4200/
