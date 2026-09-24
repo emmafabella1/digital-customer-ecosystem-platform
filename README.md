@@ -1,10 +1,15 @@
 # INTERVIEW PORTFOLIO
 
-lesson learned 
+########
+lesson learned during interview process.
+
 1 wag pagsabayin Ang interview 
-2 ingatan Ang laptop
+
+2 ingatan Ang laptop with video cam ready
+
 3 Isang monitor lang dapat 
 
+#########
 
 digital-customer-ecosystem-platform
 
