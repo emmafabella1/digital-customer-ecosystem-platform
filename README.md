@@ -9,6 +9,9 @@ lesson learned during interview process.
 
 3 Isang monitor lang dapat 
 
+
+hahah tumingin sa camera hahahahahahh
+
 #########
 
 digital-customer-ecosystem-platform
