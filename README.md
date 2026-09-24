@@ -1,5 +1,11 @@
 # INTERVIEW PORTFOLIO
 
+lesson learned 
+1 wag pagsabayin Ang interview 
+2 ingatan Ang laptop
+3 Isang monitor lang dapat 
+
+
 digital-customer-ecosystem-platform
 
 tecnical documentsation updated (09/18/2026)
