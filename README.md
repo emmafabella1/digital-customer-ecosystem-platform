@@ -1,20 +1,3 @@
-# INTERVIEW PORTFOLIO
-
-########
-lesson learned during interview process.
-
-busted reasons
-
-1 wag pagsabayin Ang interview para di magpapamove
-
-2 ingatan Ang laptop with video cam ready
-
-3 Isang monitor lang dapat 
-
-
-hahah tumingin sa camera hahahahahahh
-
-#########
 
 digital-customer-ecosystem-platform
 
