@@ -59,6 +59,7 @@ Server: `46.250.226.123`
 | 5   | order-service | 9417 | http://46.250.226.123:9417/api/v1/orders | http://46.250.226.123:9417/api/v1/orders/health |
 | 6   | payment-service | 9418 | http://46.250.226.123:9418/api/v1/payments | http://46.250.226.123:9418/api/v1/payments/health |
 | 7   | digital-services-platform | 9419 | http://46.250.226.123:9419/api/v1/digital-services | http://46.250.226.123:9419/api/v1/digital-services/health |
+| 8   | rewards-loyalty-services-platform | 8010 | http://46.250.226.123:8010/swagger-ui/index.html
 
 Each service also exposes Spring Actuator health at `http://46.250.226.123:<port>/actuator/health`.
 
