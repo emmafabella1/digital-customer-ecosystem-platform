@@ -1,6 +1,8 @@
 
 digital-customer-ecosystem-platform
 
+--> change the world with technology
+
 tecnical documentsation updated (09/18/2026)
 
 url: http://46.250.226.123:4200/
