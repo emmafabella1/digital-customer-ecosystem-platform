@@ -1,7 +1,7 @@
 
 digital-customer-ecosystem-platform
 
---> change the world with technology
+I always believe when technology saves lives. call me a dreamer or an idealist. bahala ka dyan 
 
 tecnical documentsation updated (09/18/2026)
 
